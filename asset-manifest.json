@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/roboreact/static/css/main.fe582c14.chunk.css",
+    "main.js": "/roboreact/static/js/main.740c7472.chunk.js",
+    "main.js.map": "/roboreact/static/js/main.740c7472.chunk.js.map",
+    "runtime-main.js": "/roboreact/static/js/runtime-main.fcc0899d.js",
+    "runtime-main.js.map": "/roboreact/static/js/runtime-main.fcc0899d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/roboreact/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c11df684.chunk.js": "/roboreact/static/js/2.c11df684.chunk.js",
+    "static/js/2.c11df684.chunk.js.map": "/roboreact/static/js/2.c11df684.chunk.js.map",
+    "index.html": "/roboreact/index.html",
+    "precache-manifest.a157cf4a9ffe03d163fe13a27dae94e1.js": "/roboreact/precache-manifest.a157cf4a9ffe03d163fe13a27dae94e1.js",
+    "service-worker.js": "/roboreact/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/roboreact/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.fe582c14.chunk.css.map": "/roboreact/static/css/main.fe582c14.chunk.css.map",
+    "static/media/App.css": "/roboreact/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc0899d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c11df684.chunk.js",
+    "static/css/main.fe582c14.chunk.css",
+    "static/js/main.740c7472.chunk.js"
+  ]
+}
